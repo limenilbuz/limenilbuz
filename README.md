@@ -11,7 +11,7 @@ Right now, my current goal is kind of fuzzy, but I think that I eventually want 
 Hopefully, the rest of my time as a student will lead me to greater things, and expanding my skillset so that I can achieve much on my own.
 
 Some fun facts about me include that I have played the saxophone for about 8 years and the clarinet for about 4. 
-I have tried to learn guitar several times, but I always seems to get lazy about it.
+I have tried to learn guitar *several times*, but I always seems to get lazy about it.
 
 
 
