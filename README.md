@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Emil Zublin, and I am currently a Computer Science and Engineering Major at the University of California, Irvine.
+
+
 <!--
 **limenilbuz/limenilbuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
