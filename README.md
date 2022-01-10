@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-My name is Emil Zublin, and I am currently a Computer Science and Engineering Major at the University of California, Irvine.
+# My name is Emil Zublin, and I am currently a Computer Science and Engineering Major at the University of California, Irvine.
+
+My current skills include Python, C++, and VHDL.
+
+Skills that I am learning right now include HTML/CSS, React.js and Verilog.
+
+![Alt Text](https://media3.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif?cid=790b7611e0cb9fa3bbcda8f85243a150556e65c50eefc52d&rid=giphy.gif)
 
 
 <!--
