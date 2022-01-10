@@ -13,7 +13,7 @@ Hopefully, the rest of my time as a student will lead me to greater things, and 
 Some fun facts about me include that I have played the saxophone for about 8 years and the clarinet for about 4. 
 I have tried to learn guitar *several times*, but I always seems to get lazy about it.
 
-
+Check out my [LinkedIn](https://www.linkedin.com/in/emil-zublin-834190226/)! 
 
 ![Alt Text](https://media3.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif?cid=790b7611e0cb9fa3bbcda8f85243a150556e65c50eefc52d&rid=giphy.gif)
 
