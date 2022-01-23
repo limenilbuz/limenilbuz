@@ -17,10 +17,10 @@ Check out my [LinkedIn](https://www.linkedin.com/in/emil-zublin-834190226/)!
 
 ![Alt Text](https://media3.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif?cid=790b7611e0cb9fa3bbcda8f85243a150556e65c50eefc52d&rid=giphy.gif)
 
+GitHub is fun!
 
 <!--
 **limenilbuz/limenilbuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
