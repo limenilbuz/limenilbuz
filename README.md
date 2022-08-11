@@ -16,6 +16,7 @@ Hopefully, the rest of my time as a student will lead me to greater things, and 
 
 Some fun facts about me include that I have played the saxophone for about 8 years and the clarinet for about 4. 
 I was in marching band in high school all 4 years, and it was one of the greatest experiences of my life!
+Another fun fact about me, is that I am very interested in mycology. A friend and I used to grow gourmet mushrooms for fun (and to eat), and it was a very interesting experience.
 
 Check out my [LinkedIn](https://www.linkedin.com/in/emil-zublin-834190226/)!
 
