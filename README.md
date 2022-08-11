@@ -11,7 +11,7 @@ In the process of learning Rust (slowly 😄)
 
 As a student, I really enjoy the process of learning, not just about code, but about all kinds of subjects.
 I started my degree having practically no coding experience, and I am proud to say that I have learned alot in only the past two years.
-Right now, my current goal is kind of fuzzy, but I think that I eventually want to end up doing research or at least working at some company that excites me.
+My current interests include gardening and embedded systems (weird combo I know). One day, I hope to land a software developer role, and something that allows me to work on systems level programs and/or embedded systems roles. I really enjoy the combination of software and hardware, so I am glad that I chose my schools interdisciplinary Computer Science and Engineering major.
 Hopefully, the rest of my time as a student will lead me to greater things, and expanding my skillset so that I can achieve much on my own.
 
 Some fun facts about me include that I have played the saxophone for about 8 years and the clarinet for about 4. 
