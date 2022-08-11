@@ -2,7 +2,9 @@
 ## Computer Science and Engineering Student at the University of California, Irvine
 
 Programming Languages: C/C++, Python, VHDL, Verilog, HTML/CSS, Javascript, SQL, R
+
 Frameworks: Arduino, ESP-IDF/FreeRTOS, Google Firebase Firestore, ReactJS
+
 Developer Tools: VSCode, PlatformIO, Git/Github, Linux, Xilinx Vivado, mySQL
 
 In the process of learning Rust (slowly 😄)
